@@ -1,10 +1,10 @@
 <div align="center">
   
 ![made-with-python](https://img.shields.io/badge/Made%20with-Python3-brightgreen)
-![GitHub top language](https://img.shields.io/github/languages/top/MohammedHamzaMalik/OS-virtual-lab)
+![GitHub top language](https://img.shields.io/github/languages/top/Manav1026/OS_Virtual_Lab)
 ![made-with-love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-ff69b4)
-![GitHub repo size](https://img.shields.io/github/repo-size/MohammedHamzaMalik/OS-virtual-lab)
-![Lines of code](https://img.shields.io/tokei/lines/github/MohammedHamzaMalik/OS-virtual-lab?color=lightblue)
+![GitHub repo size](https://img.shields.io/github/repo-size/Manav1026/OS-Virtual-Lab)
+![Lines of code](https://img.shields.io/tokei/lines/github/Manav1026/OS-Virtual-Lab?color=lightblue)
   
 </div>
 
